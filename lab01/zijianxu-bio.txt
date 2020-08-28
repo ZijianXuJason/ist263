@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>ZijianXu-Bio</title>
+    </head>
+    <body>Zijian Xu
+I am a senior student from ischool, interested in SQL.
+I have learned Python, SQL, RStudio.
+Outside of work, personally I love playing video games and watching movies and anime. My favorite movie star is Dawn Johnson and I love the movies act by him so much. My favorite video game is Monster Hunter. 
+    </body>
+</html>
