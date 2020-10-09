@@ -25,3 +25,11 @@ P {
 
 a:link {color: #C87941}
 a:visited {color: #87431D}
+
+nav a {color: #290001}
+nav a:hover {background-color: #D8D3CD;}
+
+nav {
+    padding:10px;
+    margin-bottom: 30px;
+}
