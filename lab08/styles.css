@@ -1,0 +1,62 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #F7F2E7;
+}
+
+h1, h2 {
+    color: #30475E
+}
+
+.evenrow {
+    background-color:gainsboro;
+}
+
+h1 {
+    font-size: 2em ;
+}
+
+h2 {
+    font-size: 1.5em ;
+}
+
+P {
+    color: #797A7E
+}
+
+a:link {color: #C87941}
+a:visited {color: #87431D}
+
+nav a {color: #290001}
+nav a:hover {background-color: #D8D3CD;}
+
+nav {
+    padding:10px;
+    margin-bottom: 30px;
+}
+
+.tagline {
+    float:right
+}
+
+.ZXimage {
+    float: left;
+    margin-right: 40px
+}
+
+.clear {
+    clear:both
+}
+
+.address {
+    float:left;
+    margin-right:5em
+}
+
+.address-email-linked {margin:2em; background-color: #ffffff; border-radius: 1em;}
+.address {margin:1em}
+.email-linkedd {margin:1em}
+
+
+.map-form {display:flex; margin: 2em; background-color: #ffffff;border-radius: 1em; font-size: 1.5em;}
+.map {flex:2;order:2;margin:2em;}
+.form {flex:1;order:1;margin: 5em;}
