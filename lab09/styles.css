@@ -64,5 +64,5 @@ nav {
 .ZXimage {max-width: 100%;}
 
 @media only screen and (max-width:600px){
-    nav a {max-width:100%}
+    nav a {display:100%}
 }
