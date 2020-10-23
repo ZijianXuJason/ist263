@@ -60,3 +60,5 @@ nav {
 .map-form {display:flex; margin: 1em; background-color: #ffffff;border-radius: 1em; font-size: 1.5em;}
 .map {flex:2;order:2;margin:2em;}
 .form {flex:1;order:1;margin: 5em;}
+
+.ZXimage {max-width: 100%;}
