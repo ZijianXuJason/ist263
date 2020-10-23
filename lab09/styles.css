@@ -57,8 +57,12 @@ nav {
 .email-linkedd {margin:1em}
 
 
-.map-form {display:flex; margin: 1em; background-color: #ffffff;border-radius: 1em; font-size: 1.5em;}
+.map-form {display:flex; margin: 1em; background-color: #ffffff;border-radius: 1em; font-size: 1.5em; flex-wrap: wrap;}
 .map {flex:2;order:2;margin:2em;}
 .form {flex:1;order:1;margin: 5em;}
 
 .ZXimage {max-width: 100%;}
+
+@media only screen and (max-width:600px){
+    nav a {max-width:100%}
+}
