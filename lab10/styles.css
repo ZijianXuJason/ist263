@@ -67,3 +67,11 @@ nav {
     nav a {display:flex;padding:5px}
     nav span {display:none;}
 }
+
+#skip-to-content {
+    position: absolute; 
+    left: -999px;  
+    background-color: white;
+    border: 1px solid gray;
+    }
+#skip-to-content:focus {position: absolute; left: 10px;}
