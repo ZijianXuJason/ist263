@@ -1,0 +1,73 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #dadddf;
+}
+
+h1, h2 {
+    color:#232020;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div {
+    color:#5e0a0a
+}
+
+ul {
+    color:#913535
+}
+
+p {
+    color:#1d2323
+}
+
+.tagline {
+    color: #543e5c;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:link {color: #30475e}
+a:visited {color: #87431D}
+
+nav a {color: #290001}
+nav a:hover {background-color: #D8D3CD;}
+
+nav {
+    padding:10px;
+    margin-bottom: 30px;
+}
+
+.ZXimage {
+    float: left;
+    margin-right: 40px
+}
+
+.clear {
+    clear:both
+}
+
+.games {display:flex; margin: 1em; background-color: #ffffff;border-radius: 1em; font-size: 1.5em; flex-wrap: wrap;}
+.AC {flex:1; margin: 1.5em; text-align: center;}
+.ROR {flex:1; margin: 1.5em; text-align: center;}
+.MHW {flex:1; margin: 1.5em; text-align: center;}
+
+.bio {text-align: center;}
+.bioh {text-align: center;}
+
+.picchar {display:flex; margin: 1em; background-color: #ffffff;border-radius: 1em; font-size: 1.5em; flex-wrap: wrap;}
+.char {font-size: 0.8em; margin:1em; flex:1}
+.pic {margin:1em; flex:3}
+
+.text {margin:1.5em;}
+.video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.gamepic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 2.5em;
+    width:95%
+}
