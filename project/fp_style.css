@@ -45,7 +45,7 @@ nav {
     clear:both
 }
 
-.games {display:flex; margin: 1em; background-color: #ffffff;border-radius: 1em; font-size: 1.5em; flex-wrap: wrap;}
+.games {display:flex; margin: 1em; background-color: #ffffff;border-radius: 1em; font-size: 1.5em; flex-wrap: wrap;font-family: 'Righteous', cursive;}
 .AC {flex:1; margin: 1.5em; text-align: center;}
 .ROR {flex:1; margin: 1.5em; text-align: center;}
 .MHW {flex:1; margin: 1.5em; text-align: center;}
