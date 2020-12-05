@@ -71,3 +71,26 @@ nav {
     margin: 2.5em;
     width:95%
 }
+
+#skip-to-content {
+    position: absolute; 
+    left: -999px;  
+    background-color: white;
+    border: 1px solid gray;
+    }
+#skip-to-content:focus {position: absolute; left: 10px;}
+
+.pic {max-width: 100%;}
+.gamepic {max-width: 100%;}
+.MHW {max-width: 100%;}
+.AC {max-width: 100%;}
+.ROR {max-width: 100%;}
+.video {max-width: 100%;}
+
+@media only screen and (max-width:700px){
+    .AC {padding: 0.05em; margin:0.02em;}
+    .MHW {padding: 0.05em;margin:0.02em;}
+    .ROR {padding: 0.05em;margin:0.02em;}
+    .games {margin:0.05em;}
+    .gamepic {margin:0.5em;}
+}

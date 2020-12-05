@@ -6,13 +6,19 @@
         <title>MHW Introdcution</title>
         <link rel="stylesheet" href="fp_style.css">
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+        <script>
+            function Warning () {
+            alert('Warning! The producer has noticed you!:)');
+        }
+        </script>
     </head>
     <body>
+        <a id="skip-to-content" href="#content">Skip to Content</a>
         <nav>
             <a href="project-home.html">Home</a> <span>|</span>
             <a href="about-me.html">About me</a>
         </nav>
-      
+        <a id="content"></a>
         <div class=picchar>
             <img width="1100" class=pic src="media/MHWcover.png" alt="MHW cover picture">
             <fieldset class=char><legend>Game Characteristics</legend> 
@@ -52,7 +58,7 @@
 
         <footer>
             <hr>
-        &copy;2020 Zijian Xu<div class= tagline>Error: 404 Brain Not Found</div>
+        &copy;2020 Zijian Xu<div class= tagline onclick="Warning();">Error: 404 Brain Not Found</div>
         </footer>
     </body>
 </html>
